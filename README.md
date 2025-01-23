@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Sonseerhay
-- 👀 I assist with deploying and finding solutions for routing, switching, network security, and automation for enterprise networks. 
-- 🌱 Currently studying for the CCNP ENCOR and ENAUTO exams 
-- 💞️ Looking to collaborate on any of the above topics as well as Raspberry Pi projects.
-- 📫 Reach me GitHUB or LinkedIn. 
+- 👀 I assist with finding technological solutions for enterprise networks, including but not limited to, routing, switching, network security, and automation. 
+- 🌱 Currently studying to become both CCNP ENCOR and ENAUTO certified.
+- 💞️ Looking to collaborate on any of the above topics and to learn by labbing.
+- 📫 Reach me via GitHUB or LinkedIn. 
 
 <!---
 Sonseerhay/Sonseerhay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
